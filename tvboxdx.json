@@ -9,7 +9,7 @@
             "name": "OK线路"
         },
         {
-            "url": "https://raw.giteeusercontent.com/zhang-dezhi111/tvbox/raw/master/OK/ok.json",
+            "url": "https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/OK/ok.json",
             "name": "鱼妖(仿OK)"
         },
         {
@@ -21,7 +21,7 @@
             "name": "肥猫"
         },
         {
-            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "url": "https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/huban/%E8%99%8E%E6%96%91.json",
             "name": "虎斑"
         }, 
         {
