@@ -213,16 +213,9 @@
         },
         {
             "key": "立播",
-            "name": "🌟立播┃秒播",
-            "type": 3,
-            "api": "csp_LibvioGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
-            }
+            "name": "🌟立播┃弹幕",
+            "api": "./lib/drpymin2.js",
+            "ext": "./lib/libvio.js"
         },
         {
             "key": "热播多线",
