@@ -1,5 +1,6 @@
 {
-    "spider": "./lib/custom_spider.jar;md5;79c80551d5a28f6d1839c81cde09ae65",
+    // "spider": "./lib/custom_spider.jar;md5;79c80551d5a28f6d1839c81cde09ae65",
+    "spider": "./lib/05081210.png;md5;8a8213eddbde0f6ec8bb00839e67521c",
     "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
     "logo": "./images/logo1.gif",
     "warningText": "仅作学习交流测试使用，配置或下载后请于24小时之内删除",
