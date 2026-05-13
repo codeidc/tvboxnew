@@ -1,5 +1,6 @@
 {
-    "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+    //"spider": "./jar/Ant.jar;md5;568546F5A864CBD732CF91A22C8A1B15",
+    "spider": "./jar/Bee.jar;md5;0084748CF5E2FC90786F9464937F66E1",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "./images/logo.jpg",
     "sites": [
