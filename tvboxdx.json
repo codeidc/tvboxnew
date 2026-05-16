@@ -1,31 +1,31 @@
 {
     "urls": [		
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/fantaiying/fty.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/fantaiying/fty.json",
             "name": "饭太硬"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/feimao/fm.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/feimao/fm.json",
             "name": "肥猫"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/moyu/my.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/moyu/my.json",
             "name": "摸鱼"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/huban/hb.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/huban/hb.json",
             "name": "虎斑"
         }, 
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/wangerxiao/wex.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/wangerxiao/wex.json",
             "name": "王二小"
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/xiaosa/xs.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/xiaosa/xs.json",
             "name": "潇洒"
         },
         {
-            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/13109010503/tvbox/refs/heads/main/guodaxia/gdx.json",
+            "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/guodaxia/gdx.json",
             "name": "锅大侠"
         }
     ]
