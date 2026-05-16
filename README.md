@@ -10,7 +10,7 @@
 
 ## 接口地址
 
-[https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/tvboxdx.json](https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/tvboxdx.json)
+[https://ourl.cn/nZxVBT](https://ourl.cn/nZxVBT)
 
 ## 奇奇本地包
 
