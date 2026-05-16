@@ -8,10 +8,9 @@
 
 [蜂蜜版](https://cyao.lanzov.com/b038z68a2j?pwd=666)
 
-## 接口短链
+## 接口地址
 
-[https://ourl.cn/nZxVBT](https://ourl.cn/nZxVBT)
-## 奇奇本地包下载
+[https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/tvboxdx.json](https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/tvboxdx.json)## 奇奇本地包下载
 
 
 公众号：奇奇资源库
