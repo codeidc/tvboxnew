@@ -1,9 +1,7 @@
-//资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
-
 {
-    "spider": "./spider.jar",
-    "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
-    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "spider": "./jar/1.php;md5;8048786c250374e3acb7f06a056321f3",
+    "logo": "./img/16.gif",
+    "wallpaper": "./img/15.jpg",
     "sites": [
         {
             "key": "Douban",
@@ -13,7 +11,7 @@
             "indexs": 1,
             "searchable": 0,
             "filterable": 1,
-            "ext": "./json/douban.json"
+            "ext": "./ext/2.json"
         },
         {
             "key": "FishConfig",
@@ -40,6 +38,7 @@
             "filterable": 1,
             "ext": {
                 "site": [
+                    "https://www.wogg.live",
                     "https://wogg.xxooo.cf",
                     "https://woggpan.888484.xyz",
                     "https://wogg.333232.xyz",
@@ -277,7 +276,7 @@
             "type": 3,
             "api": "csp_YunPanBaFishGuard",
             "searchable": 1,
-            "ext": "https://yunpan6.com/"
+            "ext": "./ext/5.json"
         },
         {
             "key": "YsSo",
@@ -285,7 +284,7 @@
             "type": 3,
             "api": "csp_YsSoFishGuard",
             "searchable": 1,
-            "ext": "https://ysso.cc"
+            "ext": "./ext/6.json"
         },
         {
             "key": "SeedHub",
@@ -302,7 +301,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzymovie.com"
+            "ext": "./ext/7.json"
         },
         {
             "key": "wencai",
@@ -310,7 +309,7 @@
             "type": 3,
             "api": "csp_WenCaiFishGuard",
             "searchable": 1,
-            "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+            "ext": "./ext/8.cn"
         },
         {
             "key": "Guazi",
@@ -325,7 +324,7 @@
             "type": 3,
             "api": "csp_ZxzjFishGuard",
             "searchable": 1,
-            "ext": "https://www.zxzjhd.com"
+            "ext": "./ext/9.json"
         },
         {
             "key": "TvDy",
@@ -341,7 +340,7 @@
             "type": 3,
             "api": "csp_MqTvFishGuard",
             "searchable": 1,
-            "ext": "https://www.mqtv.cc"
+            "ext": "./ext/10.json"
         },
         {
             "key": "Ikanbot",
@@ -498,6 +497,70 @@
             "filterable": 0
         },
         {
+            "key": "少儿教育",
+            "name": "少儿｜教育",
+            "type": 3,
+            "api": "csp_BiliFishGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
+            }
+        },
+        {
+            "key": "小学课堂",
+            "name": "小学｜课堂",
+            "type": 3,
+            "api": "csp_BiliFishGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
+            }
+        },
+        {
+            "key": "初中课堂",
+            "name": "初中｜课堂",
+            "type": 3,
+            "api": "csp_BiliFishGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
+            }
+        },
+        {
+            "key": "高中教育",
+            "name": "高中｜课堂",
+            "type": 3,
+            "api": "csp_BiliFishGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
+            }
+        },
+        {
             "key": "Kanqiu",
             "name": "看球｜体育",
             "type": 3,
@@ -505,7 +568,7 @@
             "searchable": 0,
             "filterable": 1,
             "indexs": 0,
-            "ext": "http://www.88kanqiu.one",
+            "ext": "./ext/11.json",
             "style": {
                 "type": "list"
             }
@@ -529,7 +592,7 @@
             "api": "csp_TingBookFishGuard",
             "searchable": 1,
             "indexs": 0,
-            "ext": "https://app.365ting.com",
+            "ext": "./ext/12.json",
             "style": {
                 "type": "list"
             }
@@ -542,7 +605,7 @@
             "searchable": 1,
             "filterable": 1,
             "indexs": 0,
-            "ext": "https://m.ting15.com",
+            "ext": "./ext/13.json",
             "style": {
                 "type": "list"
             }
@@ -589,7 +652,7 @@
             "indexs": 0,
             "searchable": 1,
             "filterable": 1,
-            "ext": "./json/fishdrive.json"
+            "ext": "./ext/14.json"
         },
         {
             "key": "Wallpaper",
