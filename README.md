@@ -10,7 +10,7 @@
 
 ## 接口地址
 
-[https://ourl.cn/nZxVBT](https://ourl.cn/nZxVBT)
+[https://ourl.cn/ZZ4wnf](https://ourl.cn/ZZ4wnf)
 
 ## 奇奇本地包
 
