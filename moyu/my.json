@@ -85,6 +85,7 @@
             "name": "立播｜4K",
             "type": 3,
             "api": "csp_LibvioFishGuard",
+            "timeout": 10,
             "searchable": 1,
             "changeable": 1,
             "ext": {
