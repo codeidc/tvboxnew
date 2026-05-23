@@ -37,7 +37,7 @@ http://肥猫.net/
 https://9280.kstore.vip/newwex.json
 （王二小）
 
-http://www.小不点.top
+http://我不是.摸鱼儿.top
 （摸鱼儿）
 
 https://9877.kstore.space/ONE/one.json
