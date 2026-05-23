@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "Douban",
-            "name": "🎬┃豆瓣┃推荐",
+            "name": "🍿┃豆瓣┃推荐",
             "type": 3,
             "api": "csp_DoubanFishGuard",
             "indexs": 1,
@@ -15,13 +15,13 @@
         },
         {
             "key": "FishConfig",
-            "name": "⚙️┃设置┃中心",
+            "name": "🛎️┃设置┃中心",
             "type": 3,
             "api": "csp_FishConfigFishGuard"
         },
         {
             "key": "YGP",
-            "name": "🎞️┃新片┃预告",
+            "name": "🌟┃新片┃预告",
             "type": 3,
             "api": "csp_YGPFishGuard",
             "searchable": 1,
@@ -30,7 +30,7 @@
         },
         {
             "key": "Wogg",
-            "name": "🧸┃玩偶┃4K",
+            "name": "🎀┃玩偶┃4K",
             "type": 3,
             "api": "csp_WoggFishGuard",
             "searchable": 1,
@@ -49,7 +49,7 @@
         },
         {
             "key": "FishMuou",
-            "name": "🪵┃木偶┃4K",
+            "name": "🍭┃木偶┃4K",
             "type": 3,
             "api": "csp_FishCloudFishGuard",
             "searchable": 1,
@@ -64,7 +64,7 @@
         },
         {
             "key": "Libvio",
-            "name": "▶️┃立播┃4K",
+            "name": "🍿┃立播┃4K",
             "type": 3,
             "api": "csp_LibvioFishGuard",
             "searchable": 1,
@@ -80,7 +80,7 @@
         },
         {
             "key": "KZN",
-            "name": "🧭┃指南┃4K",
+            "name": "🧁┃指南┃4K",
             "type": 3,
             "api": "csp_KZNFishGuard",
             "searchable": 1,
@@ -107,7 +107,7 @@
         },
         {
             "key": "gying",
-            "name": "🎥┃观影┃4K",
+            "name": "🍿┃观影┃4K",
             "type": 3,
             "api": "csp_GyingFishGuard",
             "searchable": 1,
@@ -129,7 +129,7 @@
         },
         {
             "key": "FishLabi",
-            "name": "🖍️┃蜡笔┃4K",
+            "name": "🍬┃蜡笔┃4K",
             "type": 3,
             "api": "csp_FishCloudFishGuard",
             "searchable": 1,
@@ -147,7 +147,7 @@
         },
         {
             "key": "FishZhizhen",
-            "name": "💎┃至臻┃4K",
+            "name": "💫┃至臻┃4K",
             "type": 3,
             "api": "csp_FishCloudFishGuard",
             "searchable": 1,
@@ -178,7 +178,7 @@
         },
         {
             "key": "FishErxiao",
-            "name": "✌️┃二小┃4K",
+            "name": "🍒┃二小┃4K",
             "type": 3,
             "api": "csp_FishCloudFishGuard",
             "searchable": 1,
@@ -206,7 +206,7 @@
         },
         {
             "key": "LeiJing",
-            "name": "🐋┃雷鲸┃4K",
+            "name": "🐳┃雷鲸┃4K",
             "type": 3,
             "api": "csp_LeiJingFishGuard",
             "searchable": 1,
@@ -222,7 +222,7 @@
         },
         {
             "key": "PanTa",
-            "name": "☁️┃盘它┃4K",
+            "name": "🍥┃盘它┃4K",
             "type": 3,
             "api": "csp_PanTaFishGuard",
             "searchable": 1,
@@ -230,7 +230,7 @@
         },
         {
             "key": "夸父",
-            "name": "☀️┃夸父┃4K",
+            "name": "🌞┃夸父┃4K",
             "type": 3,
             "api": "csp_FishKFFishGuard",
             "searchable": 1,
@@ -271,7 +271,7 @@
         },
         {
             "key": "YunPanBa",
-            "name": "💾┃盘吧┃4K",
+            "name": "🍥┃盘吧┃4K",
             "type": 3,
             "api": "csp_YunPanBaFishGuard",
             "searchable": 1,
@@ -286,7 +286,7 @@
         },
         {
             "key": "ALLLive",
-            "name": "🌌┃星河┃共影",
+            "name": "🌙┃星河┃共影",
             "type": 3,
             "api": "csp_ALLLiveFishGuard",
             "searchable": 1
@@ -301,7 +301,7 @@
         },
         {
             "key": "bili",
-            "name": "🖍️┃笔触┃琉璃",
+            "name": "🍬┃笔触┃琉璃",
             "type": 3,
             "api": "csp_BiliFishGuard",
             "searchable": 1,
@@ -312,7 +312,7 @@
         },
         {
             "key": "zhiqiu",
-            "name": "🍂┃听风┃知秋",
+            "name": "🍃┃听风┃知秋",
             "type": 3,
             "api": "csp_zhiqiuFishGuard",
             "searchable": 1,
@@ -320,14 +320,14 @@
         },
         {
             "key": "fishhxq",
-            "name": "🇰🇷┃韩圈┃影视",
+            "name": "🍡┃韩圈┃影视",
             "type": 3,
             "api": "csp_FishHxqFishGuard",
             "ext": "http://www.小不点.com/api//2026/fishhxq.php"
         },
         {
             "key": "Kan360",
-            "name": "📺┃三六┃影视",
+            "name": "🍭┃三六┃影视",
             "type": 3,
             "api": "csp_Kan360FishGuard",
             "searchable": 1,
@@ -341,7 +341,7 @@
         },
         {
             "key": "Rebo",
-            "name": "🔥┃热播┃APP",
+            "name": "🍓┃热播┃APP",
             "type": 3,
             "api": "csp_AppRJFishGuard",
             "searchable": 1,
@@ -353,7 +353,7 @@
         },
         {
             "key": "三秋影视",
-            "name": "🍁┃三秋┃APP",
+            "name": "🍂┃三秋┃APP",
             "api": "csp_App3QFishGuard",
             "type": 3,
             "searchable": 1,
@@ -362,7 +362,7 @@
         },
         {
             "key": "思追",
-            "name": "🕯️┃思追┃APP",
+            "name": "🌙┃思追┃APP",
             "type": 3,
             "api": "csp_AppGetFishGuard",
             "searchable": 1,
@@ -381,7 +381,7 @@
         },
         {
             "key": "CZ",
-            "name": "🏭┃厂长┃影视",
+            "name": "🍿┃厂长┃影视",
             "type": 3,
             "api": "csp_CZFishGuard",
             "searchable": 1,
@@ -391,7 +391,7 @@
         },
         {
             "key": "wencai",
-            "name": "📚┃文才┃影视",
+            "name": "🌼┃文才┃影视",
             "type": 3,
             "api": "csp_WenCaiFishGuard",
             "searchable": 1,
@@ -406,7 +406,7 @@
         },
         {
             "key": "TvDy",
-            "name": "🌤️┃天堂┃影视",
+            "name": "🌈┃天堂┃影视",
             "type": 3,
             "api": "csp_TvDyFishGuard",
             "searchable": 1,
@@ -422,7 +422,7 @@
         },
         {
             "key": "SaoHuo",
-            "name": "🔥┃骚火┃影视",
+            "name": "🍓┃骚火┃影视",
             "type": 3,
             "api": "csp_SaoHuoFishGuard",
             "searchable": 1,
@@ -432,7 +432,7 @@
         },
         {
             "key": "Duboku",
-            "name": "📺┃独播┃影视",
+            "name": "🍿┃独播┃影视",
             "type": 3,
             "api": "csp_DubokuFishGuard",
             "searchable": 1,
@@ -441,7 +441,7 @@
         },
         {
             "key": "Ikanbot",
-            "name": "👀┃爱看┃影视",
+            "name": "🥰┃爱看┃影视",
             "type": 3,
             "api": "csp_IkanbotFishGuard",
             "searchable": 1,
@@ -460,7 +460,7 @@
         },
         {
             "key": "WeiguanDJ",
-            "name": "🔬┃微观┃短剧",
+            "name": "🔍┃微观┃短剧",
             "type": 3,
             "api": "csp_WeiguanDJ",
             "searchable": 1,
@@ -499,7 +499,7 @@
         },
         {
             "key": "Manbo",
-            "name": "🎵┃曼波┃动漫",
+            "name": "🎀┃曼波┃动漫",
             "type": 3,
             "api": "csp_AppGetFishGuard",
             "searchable": 1,
@@ -519,7 +519,7 @@
         },
         {
             "key": "Jianpian",
-            "name": "🧲┃荐片┃磁力",
+            "name": "🍪┃荐片┃磁力",
             "type": 3,
             "api": "csp_JianpianFishGuard",
             "searchable": 1,
@@ -527,7 +527,7 @@
         },
         {
             "key": "Xb6v",
-            "name": "🧲┃6V┃磁力",
+            "name": "🍪┃6V┃磁力",
             "type": 3,
             "api": "csp_Xb6vFishGuard",
             "searchable": 1,
@@ -542,7 +542,7 @@
         },
         {
             "key": "ChuXin",
-            "name": "💗┃初心┃音乐",
+            "name": "💕┃初心┃音乐",
             "type": 3,
             "api": "csp_ChuXinFishGuard",
             "searchable": 1,
@@ -551,7 +551,7 @@
         },
         {
             "key": "aiting",
-            "name": "🎧┃爱听┃音乐",
+            "name": "🎵┃爱听┃音乐",
             "type": 3,
             "api": "csp_AiTingMusicFishGuard",
             "searchable": 1,
@@ -560,7 +560,7 @@
         },
         {
             "key": "Music24bit",
-            "name": "🎼┃无损┃音乐",
+            "name": "🎶┃无损┃音乐",
             "type": 3,
             "api": "csp_Music24bitFishGuard",
             "searchable": 1,
@@ -595,7 +595,7 @@
         },
         {
             "key": "少儿教育",
-            "name": "📚┃少儿┃教育",
+            "name": "🍭┃少儿┃教育",
             "type": 3,
             "api": "csp_BiliFishGuard",
             "style": {
@@ -611,7 +611,7 @@
         },
         {
             "key": "小学课堂",
-            "name": "✏️┃小学┃课堂",
+            "name": "🌱┃小学┃课堂",
             "type": 3,
             "api": "csp_BiliFishGuard",
             "style": {
@@ -627,7 +627,7 @@
         },
         {
             "key": "初中课堂",
-            "name": "📐┃初中┃课堂",
+            "name": "🌻┃初中┃课堂",
             "type": 3,
             "api": "csp_BiliFishGuard",
             "style": {
@@ -643,7 +643,7 @@
         },
         {
             "key": "高中教育",
-            "name": "🎓┃高中┃课堂",
+            "name": "🌟┃高中┃课堂",
             "type": 3,
             "api": "csp_BiliFishGuard",
             "style": {
@@ -659,7 +659,7 @@
         },
         {
             "key": "Kanqiu",
-            "name": "⚽┃看球┃体育",
+            "name": "🏀┃看球┃体育",
             "type": 3,
             "api": "csp_KanqiuFishGuard",
             "searchable": 0,
@@ -672,7 +672,7 @@
         },
         {
             "key": "Sir88",
-            "name": "🏟️┃超全┃体育",
+            "name": "🥤┃超全┃体育",
             "type": 3,
             "api": "csp_Sir88FishGuard",
             "searchable": 0,
@@ -702,7 +702,7 @@
         },
         {
             "key": "919TY",
-            "name": "🏅┃919┃体育",
+            "name": "⭐┃919┃体育",
             "type": 3,
             "api": "csp_C919TYFishGuard",
             "searchable": 0,
@@ -711,7 +711,7 @@
         },
         {
             "key": "TingBook",
-            "name": "🎙️┃六月┃有声",
+            "name": "🎐┃六月┃有声",
             "type": 3,
             "api": "csp_TingBookFishGuard",
             "searchable": 1,
@@ -736,7 +736,7 @@
         },
         {
             "key": "Local",
-            "name": "📁┃文件┃浏览",
+            "name": "🧺┃文件┃浏览",
             "type": 3,
             "api": "csp_LocalFishGuard",
             "searchable": 0,
@@ -748,7 +748,7 @@
         },
         {
             "key": "Market",
-            "name": "☁️┃网盘┃市场",
+            "name": "🍥┃网盘┃市场",
             "type": 3,
             "api": "csp_MarketFishGuard",
             "searchable": 0,
@@ -760,7 +760,7 @@
         },
         {
             "key": "push_agent",
-            "name": "📨┃推送┃接收",
+            "name": "💌┃推送┃接收",
             "type": 3,
             "api": "csp_PushFishGuard",
             "searchable": 0,
@@ -780,7 +780,7 @@
         },
         {
             "key": "Wallpaper",
-            "name": "🖼️┃摸鱼┃壁纸库",
+            "name": "🌸┃摸鱼┃壁纸库",
             "type": 3,
             "api": "csp_WallpaperFishGuard",
             "searchable": 0,
