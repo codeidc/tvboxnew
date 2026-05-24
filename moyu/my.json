@@ -87,25 +87,6 @@
             "changeable": 1
         },
         {
-            "key": "Qiwei",
-            "name": "🌈┃七味┃4K",
-            "type": 3,
-            "api": "csp_QiweiFishGuard",
-            "searchable": 1,
-            "filterable": 0,
-            "ext": {
-                "site": [
-                    "https://www.qwnull.com",
-                    "https://www.qwmkv.com",
-                    "https://www.qwfilm.com",
-                    "https://www.qnmp4.com",
-                    "https://www.qnnull.com",
-                    "https://www.qnhot.com",
-                    "https://www.qncool.com"
-                ]
-            }
-        },
-        {
             "key": "gying",
             "name": "🍿┃观影┃4K",
             "type": 3,
@@ -205,110 +186,12 @@
             }
         },
         {
-            "key": "LeiJing",
-            "name": "🐳┃雷鲸┃4K",
-            "type": 3,
-            "api": "csp_LeiJingFishGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.leijing.xyz",
-                    "https://www.leijing1.com",
-                    "https://leijing1.com"
-                ],
-                "cookie": ""
-            }
-        },
-        {
-            "key": "PanTa",
-            "name": "🍥┃盘它┃4K",
-            "type": 3,
-            "api": "csp_PanTaFishGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "夸父",
-            "name": "🌞┃夸父┃4K",
-            "type": 3,
-            "api": "csp_FishKFFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": {
-                "site": [
-                    "https://www.kfjwzz.com"
-                ],
-                "cookie": ""
-            }
-        },
-        {
-            "key": "ShuangXing",
-            "name": "🌟┃双星┃4K",
-            "type": 3,
-            "api": "csp_ShuangXingFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "DianYingYunJi",
-            "name": "☁️┃云集┃4K",
-            "type": 3,
-            "api": "csp_DianYingYunJiFishGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "YunPanBa",
-            "name": "🍥┃盘吧┃4K",
-            "type": 3,
-            "api": "csp_YunPanBaFishGuard",
-            "searchable": 1,
-            "ext": "https://yunpan6.com/"
-        },
-        {
-            "key": "SeedHub",
-            "name": "🌱┃SeedHub┃4K",
-            "type": 3,
-            "api": "csp_SeedHubFishGuard",
-            "searchable": 1
-        },
-        {
-            "key": "ALLLive",
-            "name": "🌙┃星河┃共影",
-            "type": 3,
-            "api": "csp_ALLLiveFishGuard",
-            "searchable": 1
-        },
-        {
             "key": "FishPs",
             "name": "🐟┃鱼鱼┃盘搜",
             "type": 3,
             "api": "csp_FishPsFishGuard",
             "searchable": 1,
             "filterable": 0
-        },
-        {
-            "key": "bili",
-            "name": "🍬┃笔触┃琉璃",
-            "type": 3,
-            "api": "csp_BiliFishGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": {
-                "cookie": ""
-            }
         },
         {
             "key": "zhiqiu",
